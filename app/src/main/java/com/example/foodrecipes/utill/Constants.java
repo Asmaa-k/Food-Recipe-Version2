@@ -1,9 +1,9 @@
 package com.example.foodrecipes.utill;
 
 public class Constants {
-//194e1fa96b1e12e4ba2053885871e58d
+
     public static final String BASE_URL ="https://www.food2fork.com";
-    public static final String API_KEY ="1b7ae9bd9805b48bf2df09eabf0929fe";
+    public static final String API_KEY ="bb3cc5cb70ed22dfc30c01e2b44b3bd6";
     public static final int CONNECTION_TIMEOUT =10;//10 SECOND
     public static final int READ_TIMEOUT =2;//2 SECOND
     public static final int WRITE_TIMEOUT =2;//2 SECOND
